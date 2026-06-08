@@ -1,0 +1,7 @@
+{
+  "name": "namah-crystals-backend",
+  "version": "1.0.0",
+  "description": "Secure AI backend for the Namah Crystals World chatbot",
+  "type": "module",
+  "private": true
+}
